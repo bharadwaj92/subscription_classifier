@@ -1,6 +1,7 @@
 # Direct Marketing Optimization using Mobile Data
 *A classification approach to strategize projected growths in user subscription*
-Authors: Moorissa Tjokro, Jager Hartman
+
+*Authors:* Moorissa Tjokro, Jager Hartman
 
 Link: http://moorissa.com/subscription_classifier/
 
