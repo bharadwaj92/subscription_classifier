@@ -1,14 +1,11 @@
 # Direct Marketing Optimization using Mobile Data
 *A classification approach to strategize projected growths in user subscription*
+Authors: Moorissa Tjokro, Jager Hartman
 
 Link: http://moorissa.com/subscription_classifier/
 
 ## Motivation
 A banking institution ran a direct marketing campaign based on phone calls. Oftentimes, more than one contact to the same client was required, in order to assess if the product (bank term deposit) would be subscribed or not. To solve this, we will predict whether someone will subscribe to the term deposit or not based on the given information.
-
-## Meet the team
-* Moorissa Tjokro
-* Jager Hartman
 
 ## Technique Overview
 
